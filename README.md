@@ -1,0 +1,2 @@
+# life-project
+Пишим js
